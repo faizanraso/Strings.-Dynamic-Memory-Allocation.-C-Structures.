@@ -1,5 +1,5 @@
 //QUESTION 1
-/*
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
@@ -33,4 +33,4 @@ char *my_strcat(const char *const str1, const char *const str2)
     return new_word;
 }
 
-*/
+
